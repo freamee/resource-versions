@@ -1,4 +1,10 @@
 {
-    "aquiver_animalfarm": "2.2",
-    "av_advanced_crypto": "1.01"
+    "aquiver_animalfarm": {
+        "version": "2.2",
+        "message": null
+    },
+    "av_advanced_crypto": {
+        "version": "1.01",
+        "message": null
+    }
 }
