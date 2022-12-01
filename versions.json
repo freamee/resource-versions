@@ -6,5 +6,9 @@
     "av_advanced_crypto": {
         "version": "1.01",
         "message": null
+    },
+    "avp_distillery": {
+        "version": "1.1",
+        "message": null
     }
 }
