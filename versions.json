@@ -10,5 +10,9 @@
     "avp_distillery": {
         "version": "1.0",
         "message": null
+    },
+    "aquiver_lua": {
+        "version": "1.01",
+        "message": null,   
     }
 }
