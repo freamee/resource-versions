@@ -14,5 +14,9 @@
     "aquiver_lua": {
         "version": "1.01",
         "message": null,   
+    },
+    "avp_newspaper": {
+        "version": "1.0",
+        "message": null
     }
 }
